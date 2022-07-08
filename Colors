@@ -120,7 +120,7 @@ local themeStyles = {
         ElementColor = Color3.fromRGB(74, 225, 248)
     },
     Idk = {
-        SchemeColor = Color3.fromRGB(105, 123, 165),
+        SchemeColor = Color3.fromRGB(49, 255, 255),
         Background = Color3.fromRGB(162, 190, 255),
         Header = Color3.fromRGB(164, 227, 255),
         TextColor = Color3.fromRGB(123, 231, 255),
