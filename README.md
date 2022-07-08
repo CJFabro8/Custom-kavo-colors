@@ -1,0 +1,2 @@
+# Custom-kavo-colors
+yes
